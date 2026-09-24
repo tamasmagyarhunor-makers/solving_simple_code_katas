@@ -8,10 +8,11 @@
 #    - integer (eg. 4)
 # Side effects
 #    - None
+# Tips:
+#    - Research what the difference is between imperative and
+# declarative programming, then solve the challenge below first with one and then the other.
+# 
 def count_characters(text, character):
     pass
 
 print(count_characters("Its a fantastic day", "a"))
-
-# Tasks 
-# - 
